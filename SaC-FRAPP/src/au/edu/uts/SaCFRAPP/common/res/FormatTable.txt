@@ -1,0 +1,97 @@
+10th grade, 10th
+11th grade, 11th
+12th grade no diploma, 12th
+1st 2nd 3rd or 4th grade, 1st-4th
+5th or 6th grade, 5th-6th
+7th and 8th grade, 7th-8th
+9th grade, 9th
+Associates degree-academic program, Assoc-degree-academic
+Associates degree-occup /vocational, Associates-degree-occup
+Bachelors degree(BA AB BS), Bachelors-degree
+Doctorate degree(PhD EdD), Doctorate-degree
+High school graduate, High-school
+Less than 1st grade, Less-than-1st
+Masters degree(MA MS MEng MEd MSW MBA), Masters-degree
+Prof school degree (MD DDS DVM LLB JD), Prof-school-degree
+Some college but no degree, Some-college-no-degree
+Head of household, Head-of-household
+Joint both 65+, Joint-both-65+
+Joint both under 65, Joint-both-under-65
+Joint one under 65 & one 65+, Joint-one-under-65-one-65+
+Nonfiler, Nonfiler
+Single, Single
+01, 10
+02, 20
+03, 30
+04, 40
+05, 50
+06, 60
+07, 70
+08, 80
+09, 90
+Divorced, Divorced
+Married-A F spouse present, Married-AF-spouse-present
+Married-civilian spouse present, Married-civilian-spouse-present
+Married-spouse absent, Married-spouse-absent
+Never married, Never-married
+Separated, Separated
+Widowed, Widowed
+Child 18+ ever marr Not in a subfamily, Child-18+ever-marr-Not-in-a-subfamily
+Child 18+ ever marr RP of subfamily, Child-18+ever-marr-RP-of-subfamily
+Child 18+ never marr Not in a subfamily, Child-18+never-marr-Not-in-a-subfamily
+Child 18+ never marr RP of subfamily, Child-18+never-marr-RP-of-subfamily
+Child 18+ spouse of subfamily RP, Child-18+spouse-of-subfamily-RP
+Child <18 ever marr RP of subfamily, Child_18-ever-marr-RP-of-subfamily
+Child <18 ever marr not in subfamily, Child_18-ever-marr-not-in-subfamily
+Child <18 never marr RP of subfamily, Child_18-never-marr-RP-of-subfamily
+Child <18 never marr not in subfamily, Child_18-never-marr-not-in-subfamily
+Child under 18 of RP of unrel subfamily, Child-under-18-of-RP-of-unrel-subfamily
+Grandchild 18+ ever marr RP of subfamily, Grandchild-18+ever-marr-RP-of-subfamily
+Grandchild 18+ ever marr not in subfamily, Grandchild-18+ever-marr-not-in-subfamily
+Grandchild 18+ never marr RP of subfamily, Grandchild-18+never-marr-RP-of-subfamily
+Grandchild 18+ never marr not in subfamily, Grandchild-18+never-marr-not-in-subfamily
+Grandchild 18+ spouse of subfamily RP, Grandchild-18+spouse-of-subfamily-RP
+Grandchild <18 ever marr not in subfamily, Grandchild_18-ever-marr-not-in-subfamily
+Grandchild <18 never marr child of subfamily RP, Grandchild_18-never-marr-child-of-subfamily-RP
+Grandchild <18 never marr not in subfamily, Grandchild_18-never-marr-not-in-subfamily
+Householder, Householder
+In group quarters, In-group-quarters
+Nonfamily householder, Nonfamily-householder
+Other Rel 18+ ever marr RP of subfamily, Other-Rel-18+ever-marr-RP-of-subfamily
+Other Rel 18+ ever marr not in subfamily, Other-Rel-18+ever-marr-not-in-subfamily
+Other Rel 18+ never marr RP of subfamily, Other-Rel-18+never-marr-RP-of-subfamily
+Other Rel 18+ never marr not in subfamily, Other-Rel-18+never-marr-not-in-subfamily
+Other Rel 18+ spouse of subfamily RP, Other-Rel-18+spouse-of-subfamily-RP
+Other Rel <18 ever marr RP of subfamily, Other-Rel_18-ever-marr-RP-of-subfamily
+Other Rel <18 ever marr not in subfamily, Other-Rel_18-ever-marr-not-in-subfamily
+Other Rel <18 never marr child of subfamily RP, Other-Rel_18-never-marr-child-of-subfamily-RP
+Other Rel <18 never marr not in subfamily, Other-Rel_18-never-marr-not-in-subfamily
+Other Rel <18 spouse of subfamily RP, Other-Rel_18-spouse-of-subfamily-RP
+RP of unrelated subfamily, RP-of-unrelated-subfamily
+Secondary individual, Secondary-individual
+Spouse of RP of unrelated subfamily, Spouse-of-RP-of-unrelated-subfamily
+Spouse of householder, Spouse-of-householder
+Agriculture, Agriculture
+Armed Forces, Armed-Forces
+Business and repair services,Business-and-repair-services
+Communications, Communications
+Construction, Construction
+Education, Education
+Entertainment, Entertainment
+Finance insurance and real estate, Finance-insurance-and-real-estate
+Forestry and fisheries, Forestry-and-fisheries
+Hospital services, Hospital-services
+Manufacturing-durable goods, Manufacturing-durable-goods
+Manufacturing-nondurable goods, Manufacturing-nondurable-goods
+Medical except hospital, Medical-except-hospital
+Mining, Mining
+Not in universe or children, Not-in-universe-or-children
+Other professional services, Other-professional-services
+Personal services except private HH, Personal-services-except-private-HH
+Private household services, Private-household-services
+Public administration, Public-administration
+Retail trade, Retail-trade
+Social services, Social-services
+Transportation, Transportation
+Utilities and sanitary services, Utilities-and-sanitary-services
+Wholesale trade, Wholesale-trade
